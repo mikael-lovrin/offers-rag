@@ -17,4 +17,4 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
 
 **Based on:** Funnel of the Week corpus (Stefan Georgi community)
 
-**Implementation:** Mikael Lovrin for FEG (Direct Response Marketing)
+**Implementation:** Mikael Lovrin for FEG
